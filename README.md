@@ -1,6 +1,7 @@
 ## Website: https://itzapiphub.online/
 <p align="center"><img src="https://github.com/nejason57mars/mcbot/blob/main/icon/test.ico" width="150px" height="150px" alt="mcbot"></p>
 <h1 align="center">⚠WARNING: to kill botfilter you need a very powerful Dedicated Server or VDS</h1>
+
 ## Methods
 ```💣 Methods:
 localhost
